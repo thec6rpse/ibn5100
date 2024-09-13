@@ -1,0 +1,14 @@
+h1{
+    display: block;
+}
+
+img {
+    display: inline;
+   
+}
+
+@media only screen and (max-width:600px) {
+    p{
+        color:red
+    }
+}

@@ -3,7 +3,10 @@ h1{
 }
 
 img {
-    display: inline;
+    display: flex;
+    width: 666px;
+    height: 666px;
+    object-fit: cover;
    
 }
 
